@@ -1,0 +1,34 @@
+Package: com.projectfusion.csr2
+Version: 6.4.0
+Architecture: iphoneos-arm
+Maintainer: fusion team
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./all/FUSION_640_b1a_pro_rootfull.deb
+Size: 185346
+MD5sum: f500139292386f23d1244ee53e8259f8
+SHA1: e1d127c299587b74c51dbc6c44db8fdb54960e1f
+SHA256: bd0b5b90b45fa32ee87b2c1e45d67a80717a28c9184dc725fadba20ef03ffaf0
+Section: Tweaks
+Homepage: https://discord.gg/t79gfggGzA
+Description: FUSION mod for CSR2!
+Author: ABS
+Name: CSR2 FUSION Mod
+
+Package: com.projectfusion.csr2
+Version: 6.4.0
+Architecture: iphoneos-arm64
+Maintainer: fusion team
+Installed-Size: 5856
+Depends: mobilesubstrate
+Filename: ./all/FUSION_640_b1a_pro_rootless.deb
+Size: 1022408
+MD5sum: 3c863195c1964b89e002f296d5d2b240
+SHA1: c51db1d9ebcea0868b6a21a87e1649ec9d91dc1f
+SHA256: e5c69614dacea64b81c59fbd31115ab4bad187db67cae11bc1d55a96a7e48547
+Section: Tweaks
+Homepage: https://discord.gg/t79gfggGzA
+Description: FUSION mod for CSR2!
+Author: ABS
+Name: CSR2 FUSION Mod
+
